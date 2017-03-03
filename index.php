@@ -10,6 +10,7 @@
 get_header(); ?>
  
 <h1>Hi, this is Julius.</h1>
+<h1>Hi, this is Daniel.</h1>
 
     <?php get_template_part( 'loop', 'index' ); ?>
  
