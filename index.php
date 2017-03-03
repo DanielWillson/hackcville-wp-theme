@@ -9,6 +9,8 @@
  
 get_header(); ?>
  
+<h1>Hi, this is Julius.</h1>
+
     <?php get_template_part( 'loop', 'index' ); ?>
  
 <?php get_sidebar(); ?>
