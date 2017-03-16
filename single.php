@@ -11,5 +11,7 @@ get_header(); ?>
 
 	<?php get_template_part( 'loop', 'single' ); ?>
 
+	<h1>Hello again</h1>
+
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
