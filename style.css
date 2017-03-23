@@ -164,3 +164,52 @@ p {
 	top: 5px;
 	padding: 10px;
   }
+
+  /* Chris CSS starts here*/
+.bg {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background: #1e73be;
+}
+
+.title h1 {
+	font-family: 'museo', Arial, sans-serif;
+	margin-top: 0;
+	font-weight: bold;
+	position: relative;
+	color: white;
+	margin-left: 50px;
+	margin-right: 800px;
+	border-bottom: 1px solid white;
+}
+
+.column {
+	margin-left: 40px;
+	width: 275px;
+	float: left;
+}
+
+.column img {
+	position: relative;
+}
+
+.column h3 {
+	font-family: 'museo', Arial, sans-serif;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	position: relative;
+	color: white;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+
+.column p {
+	font-family: 'museo', Arial, sans-serif;
+	position: relative;
+	color: white;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-top: 0px;
+}

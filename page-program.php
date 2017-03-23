@@ -84,6 +84,51 @@ get_header(); ?>
 	<!-- BRANDON CODE HERE -->
 
 	<!-- CHRIS CODE HERE -->
+<div class="bg">
+	</div>
 
+		<div class="title">
+			<h1>What's Included</h1>
+		</div>
+
+		<div class="column">
+			<img src="icon.png">
+				<div class="text-header">
+					<h3>HC Membership</h3>
+				</div>
+				<div class="text-paragraph">
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat</p>
+				</div>
+		</div>
+
+		<div class="column">
+			<img src="icon.png">
+				<div class="text-header">
+					<h3>HC Membership</h3>
+				</div>
+				<div class="text-paragraph">
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat</p>
+				</div>
+		</div>
+
+		<div class="column">
+			<img src="icon.png">
+				<div class="text-header">
+					<h3>HC Membership</h3>
+				</div>
+				<div class="text-paragraph">
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat</p>
+				</div>
+		</div>
+
+		<div class="column">
+			<img src="icon.png">
+				<div class="text-header">
+					<h3>HC Membership</h3>
+				</div>
+				<div class="text-paragraph">
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat</p>
+				</div>
+		</div>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
