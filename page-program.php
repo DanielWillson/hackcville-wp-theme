@@ -22,6 +22,54 @@ get_header(); ?>
 
 
 	<!-- KATIE CODE HERE -->
+<h1>Meet the Program Leads</h1>
+<div class="top-left">
+	<img src="daniel.jpg"/>
+	<div class="top-left-text">
+
+		<div class="name-heading">
+		<h2>Daniel Willson</h2></div>
+
+	<p>This is Daniel he's cool and he plays the fiddle too and he will teach you cool things This is Daniel he's cool and he plays the fiddle too and he will teach you cool thingsThis is Daniel he's cool and he 
+	</p></div>
+
+</div>
+
+<div class="top-right">
+	<img src="daniel.jpg"/>
+	<div class="top-right-text">
+
+		<div class="name-heading">
+		<h2>Daniel Willson</h2></div>
+
+	<p>This is Daniel he's cool and he plays the fiddle too and he will teach you cool things This is Daniel he's cool and he plays the fiddle too and he will teach you cool thingsThis is Daniel he's cool and he 
+	</p></div>
+
+</div>
+
+<div class="bottom-left">
+	<img src="daniel.jpg"/>
+	<div class="bottom-left-text">
+
+		<div class="name-heading">
+		<h2>Daniel Willson</h2></div>
+
+	<p>This is Daniel he's cool and he plays the fiddle too and he will teach you cool things This is Daniel he's cool and he plays the fiddle too and he will teach you cool thingsThis is Daniel he's cool and he 
+	</p></div>
+
+</div>
+
+<div class="bottom-right">
+	<img src="daniel.jpg"/>
+	<div class="bottom-right-text">
+
+		<div class="name-heading">
+		<h2>Daniel Willson</h2></div>
+
+	<p>This is Daniel he's cool and he plays the fiddle too and he will teach you cool things This is Daniel he's cool and he plays the fiddle too and he will teach you cool thingsThis is Daniel he's cool and he 
+	</p></div>
+
+</div>
 
 	<!-- JULIUS CODE HERE -->
 		
