@@ -1,6 +1,6 @@
 <?php
 /**
- * Program Page Template
+ * Template Name: Program Page
  *
  * @package WordPress
  * @subpackage Starkers
