@@ -19,7 +19,46 @@ get_header(); ?>
 </svg>
 
 	<!-- FELIX CODE HERE -->
+<div class="section-1">
+	<div class="responsive-container">
+		<div class="section-1-content">
+		<div class="left-col">
+			<h2 class="subject">About the Program</h2>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
+			<div class="apply-now">
+				<p><a href="#"> APPLY NOW </a></p>
+			</div>
+			<div class="learn-more">
+				<p><a href="#"> LEARN MORE </a></p>
+			</div>
+
+		</div>
+
+		
+
+		<div class="right-col">
+			<h2 class="subject">What's Covered</h2>
+			<div class="timeline">
+				  <!-- Item 1 -->
+				    <div class="direction-r">
+				      <p>Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</p>
+				    </div>
+
+				    <div class="direction-l">
+				      <p>Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</p>
+				    </div>
+
+				    <div class="direction-r">
+				      <p>Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</p>
+				    </div>
+			</div>
+		</div>
+
+		</div>
+	</div>
+
+</div>
 
 	<!-- KATIE CODE HERE -->
 <h1>Meet the Program Leads</h1>
