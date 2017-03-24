@@ -14,6 +14,7 @@ get_header(); ?>
 <h1>Hi, this is Katie.</h1>
 <h1>Hi, this is Chris.</h1>
 <h1>Hi, this is Katherine.</h1>
+<h1>Hi, this is Felix.</h1>
 
 
     <?php get_template_part( 'loop', 'index' ); ?>
