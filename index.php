@@ -23,6 +23,40 @@ get_header(); ?>
 
 <!-- JULIUS CODE BELOW -->
 
+<div class="home-testimonials">  
+
+	<div class="testimonial-title"> <h2> Here's what our members have to say </h2> </div>
+
+	<div class="testimonial">
+
+		<div class="testimonial-photo"><img src="dw-prof1.jpg" /></div>
+		<div class="blurb"><h3>Lorem Ipsum Dolororem Ipsum Dolororemrorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ip  Ipsum  Ipsum  Dolor</h3></div> 
+
+	</div>
+
+	<div class="testimonial">
+
+		<div class="testimonial-photo"><img src="dw-prof1.jpg" /></div>
+		<div class="blurb"><h3>Lorem Ipsum Dolororem Ipsum Dolororemrorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ip  Ipsum  Ipsum  Dolor</h3></div> 
+
+	</div>
+
+	<div class="testimonial">
+
+		<div class="testimonial-photo"><img src="dw-prof1.jpg" /></div>
+		<div class="blurb"><h3>Lorem Ipsum Dolororem Ipsum Dolororemrorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ip  Ipsum  Ipsum  Dolor</h3></div> 
+
+	</div>
+
+	<div class="testimonial">
+
+		<div class="testimonial-photo"><img src="dw-prof1.jpg" /></div>
+		<div class="blurb"><h3>Lorem Ipsum Dolororem Ipsum Dolororemrorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ipsum Drorem Ip  Ipsum  Ipsum  Dolor</h3></div> 
+
+	</div>
+
+</div>
+
 
 <!-- CHRIS CODE BELOW -->
 

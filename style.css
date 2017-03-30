@@ -26,6 +26,62 @@ Tags: starkers, html5, naked, clean, basic
 
 /*<!-- JULIUS CODE BELOW -->*/
 
+h2 {
+	font-family: GothamBold;
+	margin: 0;
+}
+
+h3 {
+	font-family: Gotham;
+	margin: 0;
+}
+
+
+.testimonial-title {
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.testimonial {
+	text-align: center;
+	display: inline-block;
+	width: 600px;
+	vertical-align: center;
+	margin: 20px 0;
+}
+
+.testimonial-photo {
+	display: inline-block;
+	width: 200px;
+	vertical-align: top;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+
+.testimonial-photo img {
+	width: 100%;
+}
+
+.blurb {
+	display: inline-block;
+	text-align: left;
+	width: 340px;
+	vertical-align: top;
+}
+
+@import 'fonts.css';
+
+@font-face { font-family: Museo; src: url('museo500-regular-webfont.woff'); }
+@font-face { font-family: Museo; src: url('museo500-regular-webfont.woff'); }
+@font-face { font-family: GothamBlack; src: url('gothamblack-webfont.ttf'); }
+@font-face { font-family: Gotham; src: url('gothambook-webfont.ttf'); }
+@font-face { font-family: GothamBold; src: url('gothambold-webfont.ttf'); }
+@font-face { font-family: GothamThin; src: url('gothamthin-webfont.ttf'); }
+@font-face { font-family: GothamLight; src: url('gothamlight-webfont.ttf'); }
+@font-face { font-family: GothamExLight; src: url('gothamexlight-webfont.ttf'); }
+
 
 /*<!-- CHRIS CODE BELOW -->*/
 
